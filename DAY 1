@@ -1,0 +1,12 @@
+Introduction to Cloud Computing - Cloud computing provides services & infrastructure like virtual machines, storage solutions, DBs, networking, IOT, AI & ML over internet rather than relying to physical infrastructure.
+
+Shared Responsibility Model - Saas Paas Iaas
+
+Cloud Models - Private, Public, Hybrid, Multi.
+Azure Arc for managing cloud environment.
+
+Azure VMware Solution - for migrating your cloud environment to like public, private or hybrid models.
+
+There are 2 types of expenses to consider
+1. Capital Expenditure (CapEx) - It's a one time upfront purchase model, like secure tangible resources (It means these resources are physical assets such as tools, machinery, and building.)
+2. Operational expenditure (OpEx) - It works on consumption-based model where basically you pay for the services over time. Cloud falls under this category.
