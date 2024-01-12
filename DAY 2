@@ -1,0 +1,39 @@
+BENEFITS OF CLOUD COMPUTING
+
+1. High Availaility:
+  Maximum Uptime: It means the resources are available consistently with minimum disruptions.
+  Service Level Agreements (SLAs): Azure is a high availability cloud environment with uptime guarantees which are the part of SLAs.
+
+2. Scalability:
+  Scalability means the ability to adjust resources on demand (add or reduce). As it is consumption based model, you only pay accourding to your requirements.
+    There are 2 types:
+    Vertical Scaling - Adjusting resource capabilities (CPU, RAM) up or down to a virtual machine.
+    Horizontal Scaling - Adding or removing resources (virtual machines, containers) to meet demands(can be done automatically or manually).
+
+3. Reliability:
+  Reliability refers to the ability to recover from failures and maintain functionality.
+
+Cloud with decentralized dsign supports reliability as it enables to have resources distributed to regions around the world in contrast to storing the data in one region.
+This means even if one a server is down in one region the others are still up and running.
+
+4. Predictibility:
+    Predictibility in cloud instills confidence in solution development.
+    2 types (influenced by Microsoft Azure Well-Architeched Framework):
+    Performance Predictibility - Focuses on predicting the resources needed for best experience for end users like load balancing, high availability & autoscaling.
+    Cost Predictibility - Focuses on predicting the cost of spending on cloud. You can track your resources in real time, monitor and apply data analytics to find patterns & latest trends for better planning.
+                          You can also predict future costs and adjust resources based on data analytics.
+                          Tools like Total Cost of Ownership (TCO)/ Pricing Calculator can also be used to get an estimate.
+
+SECURITY IN THE CLOUD:
+Cloud offers flexibility to choose solutions that align with specific security needs.
+Cloud providers are equipped to handle DDoS attacks, enhancing network security.
+
+GOVERNANCE IN THE CLOUD:
+Cloud features facilitaie governance and compliance by using set of templates to ensure corporate standards & regulatory requirements.
+Cloud based auditing that helps flag any resource that's out of compliance and provides mitigation stratgies.
+Depending on the operating model (Iaas, Saas, Paas), cloud services may automatically apply software patches and updates enhancing both governance and security.
+
+MANAGEBILITY IN THE CLOUD:
+2 types:
+    Management of the cloud - Autoscaling, preconfigured templates, monitor resources, automatic alerts of performance.
+    Management in the cloud - Web portal, Cli, APIs, Powershell.
